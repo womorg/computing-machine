@@ -1,13 +1,19 @@
 {
   "name": "@womorg/computing-machine",
-  "version": "3.1.6",
+  "version": "3.1.7",
   "description": "",
   "main": "index.js",
   "author": "womhla6s",
   "license": "MIT",
   "dependencies": {
     "@womorg/animated": "^1.0.0",
-    "@womorg/reimagined-enigma": "^1.0.1"
+    "@womorg/reimagined-enigma": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "corcojs-qrcode-sample": "^1.0.1",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "jasmine",
@@ -362,5 +368,5 @@
   "bugs": {
     "url": "https://github.com/womorg/computing-machine/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
