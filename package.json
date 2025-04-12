@@ -1,6 +1,6 @@
 {
   "name": "@womorg/computing-machine",
-  "version": "16.24.314",
+  "version": "16.24.315",
   "description": "",
   "main": "index.js",
   "author": "womhla6s",
@@ -368,5 +368,5 @@
   "bugs": {
     "url": "https://github.com/womorg/computing-machine/issues"
   },
-  "packageManager": "yarn@4.9.0"
+  "packageManager": "yarn@4.9.1"
 }
