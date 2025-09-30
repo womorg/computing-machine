@@ -1,9 +1,9 @@
 {
   "name": "@womorg/computing-machine",
-  "version": "17.28.364",
+  "version": "18.28.364",
   "description": "",
   "main": "index.js",
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/animated": "^1.0.0",
@@ -368,5 +368,5 @@
   "bugs": {
     "url": "https://github.com/womorg/computing-machine/issues"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.10.3"
 }
