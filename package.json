@@ -1,6 +1,6 @@
 {
   "name": "@womorg/computing-machine",
-  "version": "19.31.398",
+  "version": "19.31.399",
   "description": "",
   "main": "index.js",
   "author": "maggaopen",
@@ -368,5 +368,5 @@
   "bugs": {
     "url": "https://github.com/womorg/computing-machine/issues"
   },
-  "packageManager": "yarn@4.10.3"
+  "packageManager": "yarn@4.11.0"
 }
